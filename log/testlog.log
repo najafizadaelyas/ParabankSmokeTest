@@ -1,0 +1,102 @@
+2021-01-27 11:24:00,706 - Logger_file -INFO - Start of Execution
+2021-01-27 11:24:14,090 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:24:14,107 - Logger_file -INFO - Test Execution Started
+2021-01-27 11:24:15,015 - Logger_file -INFO - User clicked on Register
+2021-01-27 11:24:45,378 - Logger_file -INFO - Test was failed
+2021-01-27 11:24:45,380 - Logger_file -INFO - method name: createAccount
+2021-01-27 11:24:47,117 - Logger_file -INFO - Browser closed
+2021-01-27 11:24:54,456 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:24:54,458 - Logger_file -INFO - Test Execution Started
+2021-01-27 11:24:55,479 - Logger_file -INFO - User clicked on Register
+2021-01-27 11:25:25,941 - Logger_file -INFO - Test was failed
+2021-01-27 11:25:25,951 - Logger_file -INFO - method name: createAccount
+2021-01-27 11:25:27,660 - Logger_file -INFO - Browser closed
+2021-01-27 11:25:27,678 - Logger_file -INFO - End of Execution
+2021-01-27 11:29:10,176 - Logger_file -INFO - Start of Execution
+2021-01-27 11:29:21,082 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:29:21,084 - Logger_file -INFO - Test Execution Started
+2021-01-27 11:29:21,979 - Logger_file -INFO - User clicked on Register
+2021-01-27 11:29:24,174 - Logger_file -INFO - User entered personal information
+2021-01-27 11:29:24,275 - Logger_file -INFO - User created account
+2021-01-27 11:29:24,283 - Logger_file -INFO - Test was passed successfully
+2021-01-27 11:29:24,284 - Logger_file -INFO - method name: createAccount
+2021-01-27 11:29:24,827 - Logger_file -INFO - Browser closed
+2021-01-27 11:29:31,516 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:29:31,517 - Logger_file -INFO - Test Execution Started
+2021-01-27 11:29:32,724 - Logger_file -INFO - User clicked on Register
+2021-01-27 11:29:34,138 - Logger_file -INFO - User entered personal information
+2021-01-27 11:29:34,190 - Logger_file -INFO - User created account
+2021-01-27 11:29:34,194 - Logger_file -INFO - Test was passed successfully
+2021-01-27 11:29:34,195 - Logger_file -INFO - method name: createAccount
+2021-01-27 11:29:34,649 - Logger_file -INFO - Browser closed
+2021-01-27 11:29:34,653 - Logger_file -INFO - End of Execution
+2021-01-27 11:51:21,292 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:51:21,624 - Logger_file -INFO - Browser closed
+2021-01-27 11:51:28,161 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:51:28,390 - Logger_file -INFO - Browser closed
+2021-01-27 11:53:07,104 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:53:07,399 - Logger_file -INFO - Browser closed
+2021-01-27 11:53:12,128 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:53:12,350 - Logger_file -INFO - Browser closed
+2021-01-27 11:58:42,998 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:58:43,277 - Logger_file -INFO - user entered email address
+2021-01-27 11:58:43,418 - Logger_file -INFO - user entered password
+2021-01-27 11:58:44,846 - Logger_file -INFO - user clicked on sign in button
+2021-01-27 11:58:52,218 - Logger_file -INFO - Browser closed
+2021-01-27 11:58:59,432 - Logger_file -INFO - Browser opened successfully
+2021-01-27 11:58:59,680 - Logger_file -INFO - user entered email address
+2021-01-27 11:58:59,815 - Logger_file -INFO - user entered password
+2021-01-27 11:59:00,871 - Logger_file -INFO - user clicked on sign in button
+2021-01-27 11:59:07,101 - Logger_file -INFO - Browser closed
+2021-01-27 12:00:36,056 - Logger_file -INFO - Start of Execution
+2021-01-27 12:01:00,285 - Logger_file -INFO - Browser opened successfully
+2021-01-27 12:01:00,289 - Logger_file -INFO - Test Execution Started
+2021-01-27 12:01:01,509 - Logger_file -INFO - User clicked on Register
+2021-01-27 12:01:02,747 - Logger_file -INFO - User entered personal information
+2021-01-27 12:01:02,792 - Logger_file -INFO - User created account
+2021-01-27 12:01:02,805 - Logger_file -INFO - Test was passed successfully
+2021-01-27 12:01:02,805 - Logger_file -INFO - method name: createAccount
+2021-01-27 12:01:03,291 - Logger_file -INFO - Browser closed
+2021-01-27 12:01:08,637 - Logger_file -INFO - Browser opened successfully
+2021-01-27 12:01:08,640 - Logger_file -INFO - Test Execution Started
+2021-01-27 12:01:09,759 - Logger_file -INFO - User clicked on Register
+2021-01-27 12:01:10,989 - Logger_file -INFO - User entered personal information
+2021-01-27 12:01:11,034 - Logger_file -INFO - User created account
+2021-01-27 12:01:11,035 - Logger_file -INFO - Test was passed successfully
+2021-01-27 12:01:11,035 - Logger_file -INFO - method name: createAccount
+2021-01-27 12:01:11,489 - Logger_file -INFO - Browser closed
+2021-01-27 12:01:11,493 - Logger_file -INFO - End of Execution
+2021-01-27 12:02:10,827 - Logger_file -INFO - Start of Execution
+2021-01-27 12:02:47,559 - Logger_file -INFO - Browser opened successfully
+2021-01-27 12:02:47,568 - Logger_file -INFO - Test Execution Started
+2021-01-27 12:02:48,074 - Logger_file -INFO - user entered email address
+2021-01-27 12:02:48,225 - Logger_file -INFO - user entered password
+2021-01-27 12:02:49,228 - Logger_file -INFO - user clicked on sign in button
+2021-01-27 12:02:55,199 - Logger_file -INFO - Test was passed successfully
+2021-01-27 12:02:55,201 - Logger_file -INFO - method name: loginPage
+2021-01-27 12:02:55,799 - Logger_file -INFO - Browser closed
+2021-01-27 12:03:03,980 - Logger_file -INFO - Browser opened successfully
+2021-01-27 12:03:03,990 - Logger_file -INFO - Test Execution Started
+2021-01-27 12:03:05,231 - Logger_file -INFO - User clicked on Register
+2021-01-27 12:03:06,344 - Logger_file -INFO - User entered personal information
+2021-01-27 12:03:06,390 - Logger_file -INFO - User created account
+2021-01-27 12:03:06,390 - Logger_file -INFO - Test was passed successfully
+2021-01-27 12:03:06,391 - Logger_file -INFO - method name: createAccount
+2021-01-27 12:03:06,658 - Logger_file -INFO - Browser closed
+2021-01-27 12:03:11,544 - Logger_file -INFO - Browser opened successfully
+2021-01-27 12:03:11,545 - Logger_file -INFO - Test Execution Started
+2021-01-27 12:03:12,334 - Logger_file -INFO - User clicked on Register
+2021-01-27 12:03:13,484 - Logger_file -INFO - User entered personal information
+2021-01-27 12:03:13,518 - Logger_file -INFO - User created account
+2021-01-27 12:03:13,518 - Logger_file -INFO - Test was passed successfully
+2021-01-27 12:03:13,519 - Logger_file -INFO - method name: createAccount
+2021-01-27 12:03:13,824 - Logger_file -INFO - Browser closed
+2021-01-27 12:03:18,141 - Logger_file -INFO - Browser opened successfully
+2021-01-27 12:03:18,145 - Logger_file -INFO - Test Execution Started
+2021-01-27 12:03:18,367 - Logger_file -INFO - user entered email address
+2021-01-27 12:03:18,485 - Logger_file -INFO - user entered password
+2021-01-27 12:03:19,114 - Logger_file -INFO - user clicked on sign in button
+2021-01-27 12:03:24,972 - Logger_file -INFO - Test was passed successfully
+2021-01-27 12:03:24,972 - Logger_file -INFO - method name: loginWithParameters
+2021-01-27 12:03:25,258 - Logger_file -INFO - Browser closed
+2021-01-27 12:03:25,259 - Logger_file -INFO - End of Execution

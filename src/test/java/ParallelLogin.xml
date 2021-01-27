@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "Parallel Testing Suite">
+
+	<parameter name="userName" value="hsmith" />
+	<parameter name="password" value="Qwert123" />
+	
+   <test name = "Paralle Login Test" parallel = "methods" thread-count = "3">
+      <classes>
+         <class name = "tests.LoginTest" />
+      </classes>
+   </test>
+</suite>

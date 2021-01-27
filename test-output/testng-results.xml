@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74432" started-at="2021-01-27T15:32:10Z" finished-at="2021-01-27T15:33:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74432" started-at="2021-01-27T15:32:10Z" finished-at="2021-01-27T15:33:25Z">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@9660f4e]" name="beforeMethod" is-config="true" duration-ms="36702" started-at="2021-01-27T15:32:10Z" finished-at="2021-01-27T15:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:tests.LoginTest@9660f4e]" name="loginPage" duration-ms="7629" started-at="2021-01-27T15:32:47Z" finished-at="2021-01-27T15:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@9660f4e]" name="afterMethod" is-config="true" duration-ms="552" started-at="2021-01-27T15:32:55Z" finished-at="2021-01-27T15:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@9660f4e]" name="beforeMethod" is-config="true" duration-ms="4313" started-at="2021-01-27T15:33:13Z" finished-at="2021-01-27T15:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithParameters(java.lang.String, java.lang.String)[pri:1, instance:tests.LoginTest@9660f4e]" name="loginWithParameters" duration-ms="6827" started-at="2021-01-27T15:33:18Z" finished-at="2021-01-27T15:33:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[param-val-not-found]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[param-val-not-found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithParameters -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@9660f4e]" name="afterMethod" is-config="true" duration-ms="284" started-at="2021-01-27T15:33:24Z" finished-at="2021-01-27T15:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.SmokeTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.SmokeTest@5a8806ef]" name="beforeMethod" is-config="true" duration-ms="7295" started-at="2021-01-27T15:32:56Z" finished-at="2021-01-27T15:33:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SmokeTest@5a8806ef]" name="createAccount" duration-ms="2401" started-at="2021-01-27T15:33:03Z" data-provider="getInfoData" finished-at="2021-01-27T15:33:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohmmad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1 Owl Street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bethlehem]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NY]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[+11234567890]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[mali]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Qwert123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Qwert123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.SmokeTest@5a8806ef]" name="afterMethod" is-config="true" duration-ms="263" started-at="2021-01-27T15:33:06Z" finished-at="2021-01-27T15:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.SmokeTest@5a8806ef]" name="beforeMethod" is-config="true" duration-ms="4886" started-at="2021-01-27T15:33:06Z" finished-at="2021-01-27T15:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createAccount(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SmokeTest@5a8806ef]" name="createAccount" duration-ms="1973" started-at="2021-01-27T15:33:11Z" data-provider="getInfoData" finished-at="2021-01-27T15:33:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hosay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2 Pegeon Street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Fredrecton]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12344.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1.7896543242E10]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9.87654321E8]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[hsmith]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Qwert123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Qwert123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.SmokeTest@5a8806ef]" name="afterMethod" is-config="true" duration-ms="305" started-at="2021-01-27T15:33:13Z" finished-at="2021-01-27T15:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
